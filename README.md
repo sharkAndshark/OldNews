@@ -1,2 +1,2 @@
-# OldNews
-Crawl Sina daily top news for  recording history.
+# Sina top news database.
+Sina top news database.
